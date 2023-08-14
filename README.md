@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyen101&label=Profile%20views&color=0e75b6&style=flat" alt="nguyen101" /> </p>
-<script src="https://tryhackme.com/badge/2055841"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/vnguyen1446.png" alt="TryHackMe">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyen101" alt="nguyen101" /></a> </p>
 
 - 🌱 I’m currently learning **HTB and THM Penetration testing path/module**
