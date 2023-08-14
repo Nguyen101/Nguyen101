@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTB and THM Penetration testing path/module**
 
-- 💬 Ask me about **Angular, TypeScript, C++, and MySQL**
+- 💬 Ask me about **Angular, TypeScript, C++, and PostgreSQL**
 
 - 📫 How to reach me **vnguyen1446@gmail.com**
 
