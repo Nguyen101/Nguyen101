@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vy Nguyen</h1>
-<h3 align="center">Full Stack Web Developer and A Student in Cyber Security</h3>
+<h3 align="center">Software Dev and A Student in Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyen101&label=Profile%20views&color=0e75b6&style=flat" alt="nguyen101" /> </p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/vnguyen1446.png" alt="TryHackMe">
