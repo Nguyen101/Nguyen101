@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vy Nguyen</h1>
 <h3 align="center">Software Developer and Cyber Security Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyen101&label=Profile%20views&color=0e75b6&style=flat" alt="nguyen101" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyen101" alt="nguyen101" /></a> </p>
-
 - 🌱 I’m currently learning **HTB and THM Penetration testing path/module**
 
 - 💬 Ask me about **any languages and tools listed below**
